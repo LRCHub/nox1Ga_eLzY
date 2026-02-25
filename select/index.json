@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "UP NOW",
+  "base_artist": "XG",
+  "createdAt": "2026-02-25T15:48:46.719417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Never Grow Up, Now!",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/01_I'll_Never_Grow_Up,_Now!_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Never Grow Up Now!",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/02_I'll_Never_Grow_Up_Now!_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It All Adds Up Now",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/03_It_All_Adds_Up_Now_Cher.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Up (NOW What's Next!)",
+      "artist": "Mount Holly",
+      "has_synced": true,
+      "path": "select/04_Get_Up_(NOW_What's_Next!)_Mount_Holly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Never Grow Up, Now! (2016 Remaster)",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/05_I'll_Never_Grow_Up,_Now!_(2016_Remaster)_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wake Up Now",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/06_Wake_Up_Now_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heavenly (No Ways Tired / Can't Give Up Now)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/07_Heavenly_(No_Ways_Tired___Can't_Give_Up_Now)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pop Up Now [Pop Up なう]",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/08_Pop_Up_Now_[Pop_Up_なう]_RIP_SLYME.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UP NOW",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_UP_NOW_XG.txt"
+    }
+  ]
+}
